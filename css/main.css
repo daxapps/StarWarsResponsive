@@ -3,7 +3,7 @@ body {
 }
 
 main {
-  padding-top: 1px;
+  padding-top: 40px;
 }
 
 main .row {
@@ -34,7 +34,7 @@ p {
 .box {
   height: 400px;
   text-align: left;
-  border: 1px solid black;
+  border: 1px solid #E5E5E5;
   margin-bottom: 20px;
 }
 
@@ -43,13 +43,13 @@ img {
   height: 75%;
 }
 
-.box h1 {
+h2 {
   font-size: 19px;
   margin-top: 20px;
   line-height: .75em;
 }
 
-.box h1, .box p {
+h2, .box p {
   margin-left: 30px;
   margin-right: 30px;
 }
