@@ -15,14 +15,11 @@ header {
 }
 
 .nav-bar {
-  margin-top: -15px;
-  padding: 20px 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   line-height: 10px;
 }
 
-div.nav-bar {
-  height: 110px;
-}
 .nav-bar h1 {
   font-size: 32px;
 }
