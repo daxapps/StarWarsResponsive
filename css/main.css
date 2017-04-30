@@ -1,3 +1,7 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
 main {
   padding-top: 100px;
 }
@@ -6,10 +10,38 @@ main .row {
   margin-bottom: 20px;
 }
 
+header {
+  background-color: #E7B85B;
+}
+.nav-bar {
+  /*position: fixed;*/
+  
+  /*width: 100%;*/
+  margin-top: -15px;
+  padding: 20px 5px;
+  line-height: 10px;
+}
+
+div.nav-bar {
+  height: 110px;
+}
+.nav-bar h1 {
+  font-size: 32px;
+}
+
+.nav-bar p {
+  font-size: 16px;
+}
+
 .box {
   height: 200px;
-  text-align: center;
+  text-align: left;
   padding-top: 30px;
+  border: 1px solid black;
+}
+
+img {
+
 }
 
 .black {
